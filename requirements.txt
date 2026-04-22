@@ -1,6 +1,0 @@
-pandas
-numpy
-faiss-cpu
-openai
-sentence-transformers
-openpyxl
